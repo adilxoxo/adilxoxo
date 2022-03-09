@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @adilxoxo
+- 👋 Hi, I’m Adil Sheikh having 5+ years of experience in Software Development.
 - 👀 I’m interested in Full Stack Development.
-- 🌱 I’m currently working on HCL Commerce. I have working knowledge of Front end as well as backend.
+- 🌱 I’m currently working on HCL Commerce. I have working knowledge of both Front end and backend.
 - 📫 Please connect me on LinkedIn https://www.linkedin.com/in/adil-sheikh-648a58a3/
 
 <!---
